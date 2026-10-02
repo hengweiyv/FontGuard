@@ -1,5 +1,7 @@
 # Initial local prototype verification — 2026-10-02
 
+[简体中文](verification.zh-CN.md) | **English** | [Home](../README.en.md)
+
 Host: Windows, Python 3.12.14 from the Codex bundled runtime, isolated project
 `.venv`. This did not replace the user's global Python installation.
 
@@ -54,3 +56,12 @@ unlisted fonts remain unknown until evidence-backed records are contributed.
   installed-wheel offline scans and full SARIF validation passed. An additional
   isolated build attempt encountered TLS/index download errors for its build
   dependencies; the local installed backend was used for the release archives.
+
+## Public repository CI
+
+Release commit `d082897020e4f54da7521da829cbd35239842bcc` passed all 10 jobs in
+[GitHub Actions](https://github.com/hengweiyv/FontGuard/actions/runs/36964651723):
+Windows/macOS/Linux with Python 3.11/3.12/3.13, plus source-built Docker and offline
+tests. Dependency installation and isolated builds succeeded in CI. This does
+not claim GitHub Code Scanning SARIF upload verification, PyPI publication or
+container-registry publication.

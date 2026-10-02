@@ -1,5 +1,7 @@
 # Database provenance and scope
 
+[简体中文](font-database.zh-CN.md) | **English** | [Home](../README.en.md)
+
 FontGuard 0.2.0 contains 2,052 font-family records, not 2,052 independently verified
 binary builds. It has eight exact SHA256 fingerprints of representative upstream
 TTF files. Name matching and version/provenance checks remain necessary for other

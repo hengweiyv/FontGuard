@@ -10,3 +10,10 @@ license from Artifex. The PDF-enabled dependency bundle and Docker image are
 subject to that dependency's licensing obligations. The Apache-2.0 license on
 FontGuard's original code does not supersede those terms.
 See https://pymupdf.readthedocs.io/en/latest/about.html#license-and-copyright
+
+中文说明（供阅读参考，许可条件以各许可证原文为准）：
+FontGuard 的原创代码和数据库记录采用 Apache-2.0。
+数据库记录描述第三方字体的许可，不会重新授权字体、商标或第三方许可文本。
+PyMuPDF/MuPDF 采用 AGPL-3.0 或 Artifex 商业许可；包含 PDF 功能的依赖组合
+和 Docker 镜像需遵守该依赖的许可义务。FontGuard 的 Apache-2.0 许可
+不会覆盖这些条件。

@@ -1,12 +1,15 @@
 # Architecture and extension contract
 
+[简体中文](architecture.zh-CN.md) | **English** | [Home](../README.en.md)
+
 `Scanner → AnalyzerRegistry → raw AnalysisResult → FontIdentityEngine →
 License Engine → Policy Engine → approvals → baseline → reporter`.
 
 All contracts are Pydantic models in `core/models.py`. Analyzers preserve source
 locations and raw metadata. Font identity prefers SHA256, then PostScript name,
-full name, family and aliases. Normalization removes style/locale tokens, PDF
-subset prefixes and file extensions. It only maps the explicit traditional `體`
+full name, family and aliases. Name processing removes style tokens, PDF
+subset prefixes and file extensions; the general fallback can remove locale tokens.
+It only maps the explicit traditional `體`
 variant; broad Chinese translation and fuzzy matching are deliberately excluded.
 Literal aliases are checked before style-normalized names preserving locales,
 then before the general normalized fallback. Ambiguous fallback keys do not match.
@@ -48,9 +51,10 @@ the calling thread because PyMuPDF is not thread-safe. Cache keys include path, 
 analyzer name and version. CSS keys also include local referenced font hashes.
 Unchanged files are still hashed; the cache saves parsing work, not all disk I/O.
 `--no-cache` leaves no cache directory. Cache format changes must bump the version.
-Remove `.fontguard-cache` to reclaim old versions; no automatic eviction in v0.1.
+Remove `.fontguard-cache` to reclaim old versions; there is no automatic eviction.
 
-Fingerprints include relative source, font hash/name, rule, risk, usage and license.
+Fingerprints include relative source, font hash or database identity/name, rule,
+risk, usage and license.
 Baselines retain findings in reports but exclude matching fingerprints from CI
 failure. A severity/rule/usage/hash change produces a new finding. Approvals are
 scoped by actual hash and usage, never name; explicit organization prohibitions

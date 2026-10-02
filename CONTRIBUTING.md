@@ -1,5 +1,7 @@
 # Contributing
 
+[简体中文](CONTRIBUTING.zh-CN.md) | **English** | [Home](README.en.md)
+
 Use Python 3.11 or newer. Create a virtual environment and install `pip install -e '.[dev]'`.
 
 Before submitting a change, run:
@@ -29,3 +31,7 @@ family tokens disable fallback matching; they never pick an arbitrary record.
 
 Include no proprietary fonts, license keys or private documents in contributions.
 Tests generate their own synthetic fonts and Office/PDF fixtures.
+Explicit maintainer acceptance downloads retain real upstream binaries only in
+ignored `artifacts/`. Keep Chinese and English documentation synchronized when
+changing commands, supported behavior or licensing rules. See
+[database provenance](docs/font-database.md) for the bulk-import workflow.

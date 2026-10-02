@@ -1,5 +1,7 @@
 # FontGuard 0.2.0 server verification
 
+[简体中文](server-verification.zh-CN.md) | **English** | [Home](../README.en.md)
+
 Verification date: 2026-10-02. Tests run on an Ubuntu 24.04 server in isolated
 Docker containers based on `python:3.11-slim`. No application ports are published.
 Runtime scans use `--network=none`; dependency installation during image building
@@ -58,3 +60,14 @@ throughput claims.
 Reports are retained in the printed acceptance directory. Each rerun uses a fresh
 directory so prior cache or policy files cannot affect the result. No font binaries
 are included in the published repository or release archives.
+
+## Cleanup of this server test run
+
+At the server owner's request, the dedicated test directory was removed after
+acceptance, including fonts, native fixtures, cache, reports, archives and scripts.
+FontGuard images, their build intermediates and the newly pulled Python 3.11 base
+image were also removed: 25 image records in total. The existing 23 containers
+retained their state, with 15 running; existing volumes and networks were unchanged.
+Production service configuration was not modified. Local reports and the public
+GitHub project remain. This record documents completed testing; it does not imply
+that the test environment is still installed on the server.

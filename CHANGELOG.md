@@ -1,5 +1,7 @@
 # Changelog
 
+[简体中文](CHANGELOG.zh-CN.md) | **English** | [Home](README.en.md)
+
 ## 0.2.0 — 2026-10-02
 
 - Expanded the offline database to 2,052 evidence-backed font families with
