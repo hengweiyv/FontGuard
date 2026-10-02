@@ -1,0 +1,12 @@
+FontGuard
+Copyright 2026 FontGuard contributors
+
+Program code and original database records are licensed under Apache-2.0.
+Database records describe third-party font licenses; these descriptions do not
+relicense the fonts, trademarks or third-party license texts.
+
+Dependency notice: PyMuPDF/MuPDF is distributed under AGPL-3.0 or a commercial
+license from Artifex. The PDF-enabled dependency bundle and Docker image are
+subject to that dependency's licensing obligations. The Apache-2.0 license on
+FontGuard's original code does not supersede those terms.
+See https://pymupdf.readthedocs.io/en/latest/about.html#license-and-copyright

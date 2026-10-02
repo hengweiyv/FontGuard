@@ -1,0 +1,65 @@
+id: gf-ofl-poppins
+name: Poppins
+aliases:
+- Poppins Black
+- Poppins Black Italic
+- Poppins Bold
+- Poppins Bold Italic
+- Poppins ExtraBold
+- Poppins ExtraBold Italic
+- Poppins ExtraLight
+- Poppins ExtraLight Italic
+- Poppins Italic
+- Poppins Light
+- Poppins Light Italic
+- Poppins Medium
+- Poppins Medium Italic
+- Poppins Regular
+- Poppins SemiBold
+- Poppins SemiBold Italic
+- Poppins Thin
+- Poppins Thin Italic
+- Poppins-Black
+- Poppins-BlackItalic
+- Poppins-Bold
+- Poppins-BoldItalic
+- Poppins-ExtraBold
+- Poppins-ExtraBoldItalic
+- Poppins-ExtraLight
+- Poppins-ExtraLightItalic
+- Poppins-Italic
+- Poppins-Light
+- Poppins-LightItalic
+- Poppins-Medium
+- Poppins-MediumItalic
+- Poppins-Regular
+- Poppins-SemiBold
+- Poppins-SemiBoldItalic
+- Poppins-Thin
+- Poppins-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/poppins/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/poppins/METADATA.pb
+verified_at: '2026-10-02'

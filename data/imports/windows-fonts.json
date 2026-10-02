@@ -1,0 +1,161 @@
+{
+  "verified_at": "2026-10-02",
+  "families_verified": 31,
+  "sources": [
+    {
+      "name": "Arial",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/arial",
+      "page_sha256": "65cd514428a30c38b5c1c70b2c1c6048782682951f09b022b0a389d4b682cfd3"
+    },
+    {
+      "name": "Times New Roman",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/times-new-roman",
+      "page_sha256": "6d8301b3f868c8b135994cc2164e081383e6fb8bde18723e5a430dce37f261d1"
+    },
+    {
+      "name": "Courier New",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/courier-new",
+      "page_sha256": "e87c31c993d19f607c87ef47bfafba5f769c53861a5e0f5422745f6bcdaea3e0"
+    },
+    {
+      "name": "Verdana",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/verdana",
+      "page_sha256": "6653cc3da59932f2de27be0bc9a153e88c8c459d73a45baec36ae84a5e300745"
+    },
+    {
+      "name": "Tahoma",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/tahoma",
+      "page_sha256": "609d148fd952c5433a05269c122528458a37d4ee50fd2315788d95664e20a89b"
+    },
+    {
+      "name": "Trebuchet MS",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/trebuchet-ms",
+      "page_sha256": "0663b90cf3a87852086ab73caec3479e9f7eff21033f4ae57ef8de61e8ee686d"
+    },
+    {
+      "name": "Georgia",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/georgia",
+      "page_sha256": "2b7f472bad35066bf943085a94c87ee885c51181c07bf1966ee0832a41502b34"
+    },
+    {
+      "name": "Calibri",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/calibri",
+      "page_sha256": "ce2ebf5e62c8415a7be3b157fb27bc04f4c922be91d1ea848bad402b5f10a060"
+    },
+    {
+      "name": "Cambria",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/cambria",
+      "page_sha256": "33fb7a02d5cccc84cd94f527775c6bbb76a9d33e704d2e48b4cc9b444fd6a73f"
+    },
+    {
+      "name": "Candara",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/candara",
+      "page_sha256": "46f2b88fd8e63d80ba42808f5b910f5d3c79c9d98cff9350f18306629788cd58"
+    },
+    {
+      "name": "Consolas",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/consolas",
+      "page_sha256": "fc9724af80e85ff669d8a131a236bb1928c1b4cb66c5758f753b7b73836c4445"
+    },
+    {
+      "name": "Corbel",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/corbel",
+      "page_sha256": "1d9d5acbefce2cba8781929774dbd7568b763da272f66e945c6f0a847322d115"
+    },
+    {
+      "name": "Constantia",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/constantia",
+      "page_sha256": "dedc6ba38b05f7701f8225a56140b7cd14917b4dcc1aee9b4cdab393bdfffdbb"
+    },
+    {
+      "name": "Segoe UI",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/segoe-ui",
+      "page_sha256": "a01ddfe548cf7130bb6e39fd6805aa2ff2fb11fe43be42b3d0e8fa577a050f38"
+    },
+    {
+      "name": "Microsoft YaHei",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/microsoft-yahei",
+      "page_sha256": "968b1a56e7002006daad9c3b9fda3e6eb8f33fe79cb7c14be3c28a6292bee703"
+    },
+    {
+      "name": "Microsoft YaHei UI",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/microsoft-yahei",
+      "page_sha256": "968b1a56e7002006daad9c3b9fda3e6eb8f33fe79cb7c14be3c28a6292bee703"
+    },
+    {
+      "name": "Microsoft JhengHei",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/microsoft-jhenghei",
+      "page_sha256": "d52c00e47811615df7550cec63648cd98ce4a08b16726f9d2bd0cd7183776465"
+    },
+    {
+      "name": "SimSun",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/simsun",
+      "page_sha256": "809b5f3d34c6670502c702b1afff379dce940895d3469d023d6d40fb0ba0ca77"
+    },
+    {
+      "name": "NSimSun",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/simsun",
+      "page_sha256": "809b5f3d34c6670502c702b1afff379dce940895d3469d023d6d40fb0ba0ca77"
+    },
+    {
+      "name": "SimHei",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/simhei",
+      "page_sha256": "fb2e081ced20587a3b340f8335bb4174f698294f86a69168a1ac4407af10c33c"
+    },
+    {
+      "name": "KaiTi",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/kaiti",
+      "page_sha256": "b836003bd89d52c3a3dbac185fb0d535f3e4cb2ae20bc90f9c7f612788dbdb37"
+    },
+    {
+      "name": "FangSong",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/fangsong",
+      "page_sha256": "726da6f989082bdf18a10bba842421305e014bc910d808b42f6ca9ad4e7c7cb8"
+    },
+    {
+      "name": "DengXian",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/dengxian",
+      "page_sha256": "accb385077402c550266841839c187894221ba1763b9aca85a1a1486606f588c"
+    },
+    {
+      "name": "Malgun Gothic",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/malgun-gothic",
+      "page_sha256": "510e301526ecdae9773bc9b418d4dba281655f19e42311fd9847983924447af3"
+    },
+    {
+      "name": "Meiryo",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/meiryo",
+      "page_sha256": "90d8d592d14b96bcaea7e8b4c6a6174c72ab8ec0db2369250259b3de631ef707"
+    },
+    {
+      "name": "Yu Gothic",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/yu-gothic",
+      "page_sha256": "9d92225145fe4af6f7233a42fd187feadd4a58226c5795c797e6e2b65a8fdb47"
+    },
+    {
+      "name": "MS Gothic",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/ms-gothic",
+      "page_sha256": "9da38e5d1e9ee022d36f3fdb87d74d4696915f003ddf68fa16e7764956ea3cf4"
+    },
+    {
+      "name": "MS Mincho",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/ms-mincho",
+      "page_sha256": "356b57fb8054a30fdbb6359512262bbd6d0dfd95bb28f27ef6218cb3f292e721"
+    },
+    {
+      "name": "Comic Sans MS",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/comic-sans-ms",
+      "page_sha256": "f6b88d2053bcf691d457a96e710975e834a82b1191265b557a10069bd8e9f9cf"
+    },
+    {
+      "name": "Impact",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/impact",
+      "page_sha256": "5bb6e3e082be590623a24f8dc721023ee79a89186a97910d49fe074a54d7e017"
+    },
+    {
+      "name": "Palatino Linotype",
+      "url": "https://learn.microsoft.com/en-us/typography/font-list/palatino-linotype",
+      "page_sha256": "203bde210521640da641b234346cbf6383a19c9a0a2aaf4a09a0e4abb8a26f08"
+    }
+  ]
+}

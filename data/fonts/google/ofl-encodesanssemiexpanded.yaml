@@ -1,0 +1,47 @@
+id: gf-ofl-encodesanssemiexpanded
+name: Encode Sans Semi Expanded
+aliases:
+- Encode Sans Semi Expanded Black
+- Encode Sans Semi Expanded Bold
+- Encode Sans Semi Expanded ExtraBold
+- Encode Sans Semi Expanded ExtraLight
+- Encode Sans Semi Expanded Light
+- Encode Sans Semi Expanded Medium
+- Encode Sans Semi Expanded Regular
+- Encode Sans Semi Expanded SemiBold
+- Encode Sans Semi Expanded Thin
+- EncodeSansSemiExpanded-Black
+- EncodeSansSemiExpanded-Bold
+- EncodeSansSemiExpanded-ExtraBold
+- EncodeSansSemiExpanded-ExtraLight
+- EncodeSansSemiExpanded-Light
+- EncodeSansSemiExpanded-Medium
+- EncodeSansSemiExpanded-Regular
+- EncodeSansSemiExpanded-SemiBold
+- EncodeSansSemiExpanded-Thin
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/encodesanssemiexpanded/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/encodesanssemiexpanded/METADATA.pb
+verified_at: '2026-10-02'

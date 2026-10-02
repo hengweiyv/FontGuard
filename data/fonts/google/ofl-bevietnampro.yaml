@@ -1,0 +1,65 @@
+id: gf-ofl-bevietnampro
+name: Be Vietnam Pro
+aliases:
+- Be Vietnam Pro Black
+- Be Vietnam Pro Black Italic
+- Be Vietnam Pro Bold
+- Be Vietnam Pro Bold Italic
+- Be Vietnam Pro ExtraBold
+- Be Vietnam Pro ExtraBold Italic
+- Be Vietnam Pro ExtraLight
+- Be Vietnam Pro ExtraLight Italic
+- Be Vietnam Pro Italic
+- Be Vietnam Pro Light
+- Be Vietnam Pro Light Italic
+- Be Vietnam Pro Medium
+- Be Vietnam Pro Medium Italic
+- Be Vietnam Pro Regular
+- Be Vietnam Pro SemiBold
+- Be Vietnam Pro SemiBold Italic
+- Be Vietnam Pro Thin
+- Be Vietnam Pro Thin Italic
+- BeVietnamPro-Black
+- BeVietnamPro-BlackItalic
+- BeVietnamPro-Bold
+- BeVietnamPro-BoldItalic
+- BeVietnamPro-ExtraBold
+- BeVietnamPro-ExtraBoldItalic
+- BeVietnamPro-ExtraLight
+- BeVietnamPro-ExtraLightItalic
+- BeVietnamPro-Italic
+- BeVietnamPro-Light
+- BeVietnamPro-LightItalic
+- BeVietnamPro-Medium
+- BeVietnamPro-MediumItalic
+- BeVietnamPro-Regular
+- BeVietnamPro-SemiBold
+- BeVietnamPro-SemiBoldItalic
+- BeVietnamPro-Thin
+- BeVietnamPro-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/bevietnampro/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/bevietnampro/METADATA.pb
+verified_at: '2026-10-02'

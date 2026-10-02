@@ -1,0 +1,65 @@
+id: gf-ofl-firasansextracondensed
+name: Fira Sans Extra Condensed
+aliases:
+- Fira Sans Extra Condensed Black
+- Fira Sans Extra Condensed Black Italic
+- Fira Sans Extra Condensed Bold
+- Fira Sans Extra Condensed Bold Italic
+- Fira Sans Extra Condensed ExtraBold
+- Fira Sans Extra Condensed ExtraBold Italic
+- Fira Sans Extra Condensed ExtraLight
+- Fira Sans Extra Condensed ExtraLight Italic
+- Fira Sans Extra Condensed Italic
+- Fira Sans Extra Condensed Light
+- Fira Sans Extra Condensed Light Italic
+- Fira Sans Extra Condensed Medium
+- Fira Sans Extra Condensed Medium Italic
+- Fira Sans Extra Condensed Regular
+- Fira Sans Extra Condensed SemiBold
+- Fira Sans Extra Condensed SemiBold Italic
+- Fira Sans Extra Condensed Thin
+- Fira Sans Extra Condensed Thin Italic
+- FiraSansExtraCondensed-Black
+- FiraSansExtraCondensed-BlackItalic
+- FiraSansExtraCondensed-Bold
+- FiraSansExtraCondensed-BoldItalic
+- FiraSansExtraCondensed-ExtraBold
+- FiraSansExtraCondensed-ExtraBoldItalic
+- FiraSansExtraCondensed-ExtraLight
+- FiraSansExtraCondensed-ExtraLightItalic
+- FiraSansExtraCondensed-Italic
+- FiraSansExtraCondensed-Light
+- FiraSansExtraCondensed-LightItalic
+- FiraSansExtraCondensed-Medium
+- FiraSansExtraCondensed-MediumItalic
+- FiraSansExtraCondensed-Regular
+- FiraSansExtraCondensed-SemiBold
+- FiraSansExtraCondensed-SemiBoldItalic
+- FiraSansExtraCondensed-Thin
+- FiraSansExtraCondensed-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/firasansextracondensed/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/firasansextracondensed/METADATA.pb
+verified_at: '2026-10-02'

@@ -1,0 +1,57 @@
+id: gf-ofl-spectral
+name: Spectral
+aliases:
+- Spectral Bold
+- Spectral Bold Italic
+- Spectral ExtraBold
+- Spectral ExtraBold Italic
+- Spectral ExtraLight
+- Spectral ExtraLight Italic
+- Spectral Italic
+- Spectral Light
+- Spectral Light Italic
+- Spectral Medium
+- Spectral Medium Italic
+- Spectral Regular
+- Spectral SemiBold
+- Spectral SemiBold Italic
+- Spectral-Bold
+- Spectral-BoldItalic
+- Spectral-ExtraBold
+- Spectral-ExtraBoldItalic
+- Spectral-ExtraLight
+- Spectral-ExtraLightItalic
+- Spectral-Italic
+- Spectral-Light
+- Spectral-LightItalic
+- Spectral-Medium
+- Spectral-MediumItalic
+- Spectral-Regular
+- Spectral-SemiBold
+- Spectral-SemiBoldItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/spectral/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/spectral/METADATA.pb
+verified_at: '2026-10-02'

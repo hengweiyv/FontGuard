@@ -1,0 +1,65 @@
+id: gf-ofl-barlowcondensed
+name: Barlow Condensed
+aliases:
+- Barlow Condensed Black
+- Barlow Condensed Black Italic
+- Barlow Condensed Bold
+- Barlow Condensed Bold Italic
+- Barlow Condensed ExtraBold
+- Barlow Condensed ExtraBold Italic
+- Barlow Condensed ExtraLight
+- Barlow Condensed ExtraLight Italic
+- Barlow Condensed Italic
+- Barlow Condensed Light
+- Barlow Condensed Light Italic
+- Barlow Condensed Medium
+- Barlow Condensed Medium Italic
+- Barlow Condensed Regular
+- Barlow Condensed SemiBold
+- Barlow Condensed SemiBold Italic
+- Barlow Condensed Thin
+- Barlow Condensed Thin Italic
+- BarlowCondensed-Black
+- BarlowCondensed-BlackItalic
+- BarlowCondensed-Bold
+- BarlowCondensed-BoldItalic
+- BarlowCondensed-ExtraBold
+- BarlowCondensed-ExtraBoldItalic
+- BarlowCondensed-ExtraLight
+- BarlowCondensed-ExtraLightItalic
+- BarlowCondensed-Italic
+- BarlowCondensed-Light
+- BarlowCondensed-LightItalic
+- BarlowCondensed-Medium
+- BarlowCondensed-MediumItalic
+- BarlowCondensed-Regular
+- BarlowCondensed-SemiBold
+- BarlowCondensed-SemiBoldItalic
+- BarlowCondensed-Thin
+- BarlowCondensed-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/barlowcondensed/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/barlowcondensed/METADATA.pb
+verified_at: '2026-10-02'

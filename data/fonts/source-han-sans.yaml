@@ -1,0 +1,27 @@
+id: source-han-sans
+name: Source Han Sans
+aliases: [SourceHanSans, Source Han Sans CN, 思源黑体, 思源黑體]
+vendor: Adobe
+license:
+  type: OFL-1.1
+  conditions:
+    - Preserve copyright and license notices when distributing font software.
+    - Modified fonts must respect Reserved Font Names; fonts cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+  - type: official_license
+    url: https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt
+verified_at: 2026-10-02

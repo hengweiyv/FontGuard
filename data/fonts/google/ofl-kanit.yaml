@@ -1,0 +1,65 @@
+id: gf-ofl-kanit
+name: Kanit
+aliases:
+- Kanit Black
+- Kanit Black Italic
+- Kanit Bold
+- Kanit Bold Italic
+- Kanit ExtraBold
+- Kanit ExtraBold Italic
+- Kanit ExtraLight
+- Kanit ExtraLight Italic
+- Kanit Italic
+- Kanit Light
+- Kanit Light Italic
+- Kanit Medium
+- Kanit Medium Italic
+- Kanit Regular
+- Kanit SemiBold
+- Kanit SemiBold Italic
+- Kanit Thin
+- Kanit Thin Italic
+- Kanit-Black
+- Kanit-BlackItalic
+- Kanit-Bold
+- Kanit-BoldItalic
+- Kanit-ExtraBold
+- Kanit-ExtraBoldItalic
+- Kanit-ExtraLight
+- Kanit-ExtraLightItalic
+- Kanit-Italic
+- Kanit-Light
+- Kanit-LightItalic
+- Kanit-Medium
+- Kanit-MediumItalic
+- Kanit-Regular
+- Kanit-SemiBold
+- Kanit-SemiBoldItalic
+- Kanit-Thin
+- Kanit-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/kanit/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/kanit/METADATA.pb
+verified_at: '2026-10-02'

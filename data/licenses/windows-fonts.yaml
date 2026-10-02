@@ -1,0 +1,5 @@
+id: LicenseRef-Windows-Fonts
+name: 'Windows-supplied fonts: software terms and extended rights'
+sources:
+- type: official_documentation
+  url: https://learn.microsoft.com/en-us/typography/fonts/font-faq

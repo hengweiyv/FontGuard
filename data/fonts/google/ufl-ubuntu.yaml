@@ -1,0 +1,47 @@
+id: gf-ufl-ubuntu
+name: Ubuntu
+aliases:
+- Ubuntu Bold
+- Ubuntu Bold Italic
+- Ubuntu Italic
+- Ubuntu Light
+- Ubuntu Light Italic
+- Ubuntu Medium
+- Ubuntu Medium Italic
+- Ubuntu Regular
+- Ubuntu-Bold
+- Ubuntu-BoldItalic
+- Ubuntu-Italic
+- Ubuntu-Light
+- Ubuntu-LightItalic
+- Ubuntu-Medium
+- Ubuntu-MediumItalic
+- Ubuntu-Regular
+vendor: Google Fonts catalogue
+license:
+  type: Ubuntu-font-1.0
+  conditions:
+  - Redistribute font software under the Ubuntu Font Licence with its notices.
+  - Respect modified-version naming rules; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ufl/ubuntu/LICENCE.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ufl/ubuntu/METADATA.pb
+verified_at: '2026-10-02'
+hashes:
+- 3128df86a31805618436d0ae5651ba4285d0c9de0a39057d025f64ee33bceb64

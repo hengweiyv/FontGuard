@@ -1,0 +1,47 @@
+id: gf-ofl-gothica1
+name: Gothic A1
+aliases:
+- Gothic A1 Black
+- Gothic A1 Bold
+- Gothic A1 ExtraBold
+- Gothic A1 ExtraLight
+- Gothic A1 Light
+- Gothic A1 Medium
+- Gothic A1 Regular
+- Gothic A1 SemiBold
+- Gothic A1 Thin
+- GothicA1-Black
+- GothicA1-Bold
+- GothicA1-ExtraBold
+- GothicA1-ExtraLight
+- GothicA1-Light
+- GothicA1-Medium
+- GothicA1-Regular
+- GothicA1-SemiBold
+- GothicA1-Thin
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/gothica1/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/gothica1/METADATA.pb
+verified_at: '2026-10-02'

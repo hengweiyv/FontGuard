@@ -1,0 +1,59 @@
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fontguard"
+version = "0.2.0"
+description = "Local-first font license compliance scanner for developers and designers"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{name = "FontGuard contributors"}]
+dependencies = [
+  "pydantic>=2.10,<3", "PyYAML>=6,<7", "fonttools[woff]>=4.55,<5",
+  "PyMuPDF>=1.24,<2", "pathspec>=0.12,<1", "defusedxml>=0.7,<1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.9", "mypy>=1.14", "types-PyYAML>=6", "build>=1.2", "jsonschema>=4"]
+
+[project.scripts]
+fontguard = "fontguard.cli.main:main"
+
+[project.urls]
+Homepage = "https://github.com/hengweiyv/FontGuard"
+Source = "https://github.com/hengweiyv/FontGuard"
+Issues = "https://github.com/hengweiyv/FontGuard/issues"
+
+[project.entry-points."fontguard.analyzers"]
+# Third-party packages can register Analyzer factories here.
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/fontguard"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"data" = "fontguard/data"
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "data", "scripts", "tests", "docs", "examples", ".github", "*.md", "LICENSE", "NOTICE", "pyproject.toml", "Dockerfile", ".pre-commit-hooks.yaml", ".gitignore", ".fontguardignore", ".dockerignore", ".gitattributes"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["artifacts"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+files = ["src/fontguard"]
+
+[[tool.mypy.overrides]]
+module = ["fontTools.*", "pymupdf", "defusedxml.*"]
+ignore_missing_imports = true

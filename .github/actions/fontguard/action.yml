@@ -1,0 +1,38 @@
+name: FontGuard
+description: Offline font license compliance scan
+inputs:
+  path:
+    description: Project directory or supported file
+    default: '.'
+  fail-on:
+    description: Failure threshold (high, review, unknown, low, safe)
+    default: high
+  format:
+    description: Report format
+    default: sarif
+  output:
+    description: Report file
+    default: fontguard.sarif
+  usage:
+    description: Usage context
+    default: unknown
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - name: Install FontGuard from action source
+      shell: bash
+      env:
+        FONTGUARD_SOURCE: ${{ github.action_path }}/../../..
+      run: python -m pip install "$FONTGUARD_SOURCE"
+    - name: Scan
+      shell: bash
+      env:
+        FG_PATH: ${{ inputs.path }}
+        FG_FAIL: ${{ inputs.fail-on }}
+        FG_FORMAT: ${{ inputs.format }}
+        FG_OUTPUT: ${{ inputs.output }}
+        FG_USAGE: ${{ inputs.usage }}
+      run: fontguard scan "$FG_PATH" --fail-on "$FG_FAIL" --format "$FG_FORMAT" --output "$FG_OUTPUT" --usage "$FG_USAGE" --no-cache

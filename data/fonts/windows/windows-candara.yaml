@@ -1,0 +1,34 @@
+id: windows-candara
+name: Candara
+aliases: []
+vendor: Microsoft Windows font distribution
+license:
+  type: LicenseRef-Windows-Fonts
+  conditions:
+  - Applies to Windows-supplied versions only; verify software entitlement and provenance.
+  - CSS font-stack naming is allowed; self-hosting and app/font redistribution need
+    separate rights.
+  - Document embedding depends on the actual font's embedding flags and authoring
+    software.
+  - Commercial rendered output may be permitted under licensed software; no purchase
+    is inferred.
+usage:
+  personal: requires_license
+  commercial_design: requires_license
+  print: requires_license
+  advertising: requires_license
+  video: requires_license
+  logo: requires_license
+  ebook: requires_license
+  document_embedding: requires_license
+  app_embedding: requires_license
+  software_distribution: requires_license
+  font_redistribution: requires_license
+  webfont: requires_license
+  website: allowed
+sources:
+- type: official_documentation
+  url: https://learn.microsoft.com/en-us/typography/fonts/font-faq
+- type: official_vendor
+  url: https://learn.microsoft.com/en-us/typography/font-list/candara
+verified_at: '2026-10-02'

@@ -1,0 +1,65 @@
+id: gf-ofl-montserratalternates
+name: Montserrat Alternates
+aliases:
+- Montserrat Alternates Black
+- Montserrat Alternates Black Italic
+- Montserrat Alternates Bold
+- Montserrat Alternates Bold Italic
+- Montserrat Alternates ExtraBold
+- Montserrat Alternates ExtraBold Italic
+- Montserrat Alternates ExtraLight
+- Montserrat Alternates ExtraLight Italic
+- Montserrat Alternates Italic
+- Montserrat Alternates Light
+- Montserrat Alternates Light Italic
+- Montserrat Alternates Medium
+- Montserrat Alternates Medium Italic
+- Montserrat Alternates Regular
+- Montserrat Alternates SemiBold
+- Montserrat Alternates SemiBold Italic
+- Montserrat Alternates Thin
+- Montserrat Alternates Thin Italic
+- MontserratAlternates-Black
+- MontserratAlternates-BlackItalic
+- MontserratAlternates-Bold
+- MontserratAlternates-BoldItalic
+- MontserratAlternates-ExtraBold
+- MontserratAlternates-ExtraBoldItalic
+- MontserratAlternates-ExtraLight
+- MontserratAlternates-ExtraLightItalic
+- MontserratAlternates-Italic
+- MontserratAlternates-Light
+- MontserratAlternates-LightItalic
+- MontserratAlternates-Medium
+- MontserratAlternates-MediumItalic
+- MontserratAlternates-Regular
+- MontserratAlternates-SemiBold
+- MontserratAlternates-SemiBoldItalic
+- MontserratAlternates-Thin
+- MontserratAlternates-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/montserratalternates/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/montserratalternates/METADATA.pb
+verified_at: '2026-10-02'

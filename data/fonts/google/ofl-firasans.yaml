@@ -1,0 +1,65 @@
+id: gf-ofl-firasans
+name: Fira Sans
+aliases:
+- Fira Sans Black
+- Fira Sans Black Italic
+- Fira Sans Bold
+- Fira Sans Bold Italic
+- Fira Sans ExtraBold
+- Fira Sans ExtraBold Italic
+- Fira Sans ExtraLight
+- Fira Sans ExtraLight Italic
+- Fira Sans Italic
+- Fira Sans Light
+- Fira Sans Light Italic
+- Fira Sans Medium
+- Fira Sans Medium Italic
+- Fira Sans Regular
+- Fira Sans SemiBold
+- Fira Sans SemiBold Italic
+- Fira Sans Thin
+- Fira Sans Thin Italic
+- FiraSans-Black
+- FiraSans-BlackItalic
+- FiraSans-Bold
+- FiraSans-BoldItalic
+- FiraSans-ExtraBold
+- FiraSans-ExtraBoldItalic
+- FiraSans-ExtraLight
+- FiraSans-ExtraLightItalic
+- FiraSans-Italic
+- FiraSans-Light
+- FiraSans-LightItalic
+- FiraSans-Medium
+- FiraSans-MediumItalic
+- FiraSans-Regular
+- FiraSans-SemiBold
+- FiraSans-SemiBoldItalic
+- FiraSans-Thin
+- FiraSans-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/firasans/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/firasans/METADATA.pb
+verified_at: '2026-10-02'

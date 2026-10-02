@@ -1,0 +1,65 @@
+id: gf-ofl-firasanscondensed
+name: Fira Sans Condensed
+aliases:
+- Fira Sans Condensed Black
+- Fira Sans Condensed Black Italic
+- Fira Sans Condensed Bold
+- Fira Sans Condensed Bold Italic
+- Fira Sans Condensed ExtraBold
+- Fira Sans Condensed ExtraBold Italic
+- Fira Sans Condensed ExtraLight
+- Fira Sans Condensed ExtraLight Italic
+- Fira Sans Condensed Italic
+- Fira Sans Condensed Light
+- Fira Sans Condensed Light Italic
+- Fira Sans Condensed Medium
+- Fira Sans Condensed Medium Italic
+- Fira Sans Condensed Regular
+- Fira Sans Condensed SemiBold
+- Fira Sans Condensed SemiBold Italic
+- Fira Sans Condensed Thin
+- Fira Sans Condensed Thin Italic
+- FiraSansCondensed-Black
+- FiraSansCondensed-BlackItalic
+- FiraSansCondensed-Bold
+- FiraSansCondensed-BoldItalic
+- FiraSansCondensed-ExtraBold
+- FiraSansCondensed-ExtraBoldItalic
+- FiraSansCondensed-ExtraLight
+- FiraSansCondensed-ExtraLightItalic
+- FiraSansCondensed-Italic
+- FiraSansCondensed-Light
+- FiraSansCondensed-LightItalic
+- FiraSansCondensed-Medium
+- FiraSansCondensed-MediumItalic
+- FiraSansCondensed-Regular
+- FiraSansCondensed-SemiBold
+- FiraSansCondensed-SemiBoldItalic
+- FiraSansCondensed-Thin
+- FiraSansCondensed-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/firasanscondensed/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/firasanscondensed/METADATA.pb
+verified_at: '2026-10-02'

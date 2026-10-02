@@ -1,0 +1,7 @@
+- id: fontguard
+  name: FontGuard font policy scan
+  entry: fontguard scan . --fail-on high --no-cache
+  language: python
+  pass_filenames: false
+  types: [file]
+  description: Scan local font declarations and font files against organization policy.

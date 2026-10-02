@@ -1,0 +1,53 @@
+id: gf-ofl-fahkwang
+name: Fahkwang
+aliases:
+- Fahkwang Bold
+- Fahkwang Bold Italic
+- Fahkwang ExtraLight
+- Fahkwang ExtraLight Italic
+- Fahkwang Italic
+- Fahkwang Light
+- Fahkwang Light Italic
+- Fahkwang Medium
+- Fahkwang Medium Italic
+- Fahkwang Regular
+- Fahkwang SemiBold
+- Fahkwang SemiBold Italic
+- Fahkwang-Bold
+- Fahkwang-BoldItalic
+- Fahkwang-ExtraLight
+- Fahkwang-ExtraLightItalic
+- Fahkwang-Italic
+- Fahkwang-Light
+- Fahkwang-LightItalic
+- Fahkwang-Medium
+- Fahkwang-MediumItalic
+- Fahkwang-Regular
+- Fahkwang-SemiBold
+- Fahkwang-SemiBoldItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/fahkwang/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/fahkwang/METADATA.pb
+verified_at: '2026-10-02'

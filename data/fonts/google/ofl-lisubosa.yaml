@@ -1,0 +1,60 @@
+id: gf-ofl-lisubosa
+name: Lisu Bosa
+aliases:
+- Lisu Bosa Black
+- Lisu Bosa Black Italic
+- Lisu Bosa Bold
+- Lisu Bosa Bold Italic
+- Lisu Bosa ExtraBold
+- Lisu Bosa ExtraBold Italic
+- Lisu Bosa ExtraLight
+- Lisu Bosa ExtraLight Italic
+- Lisu Bosa Italic
+- Lisu Bosa Light
+- Lisu Bosa Light Italic
+- Lisu Bosa Medium
+- Lisu Bosa Medium Italic
+- Lisu Bosa SemiBold
+- Lisu Bosa SemiBold Italic
+- LisuBosa-Black
+- LisuBosa-BlackItalic
+- LisuBosa-Bold
+- LisuBosa-BoldItalic
+- LisuBosa-ExtraBold
+- LisuBosa-ExtraBoldItalic
+- LisuBosa-ExtraLight
+- LisuBosa-ExtraLightItalic
+- LisuBosa-Italic
+- LisuBosa-Light
+- LisuBosa-LightItalic
+- LisuBosa-Medium
+- LisuBosa-MediumItalic
+- LisuBosa-Regular
+- LisuBosa-SemiBold
+- LisuBosa-SemiBoldItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/lisubosa/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/lisubosa/METADATA.pb
+verified_at: '2026-10-02'

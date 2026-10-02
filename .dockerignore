@@ -1,0 +1,6 @@
+.git
+.venv
+.fontguard-cache
+artifacts
+dist
+__pycache__

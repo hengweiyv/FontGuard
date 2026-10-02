@@ -1,0 +1,61 @@
+{
+  "repository_commit": "9710da1eacb3be272583c3224dcb70f9da6eadbb",
+  "samples": [
+    {
+      "name": "Kosugi",
+      "file": "company-apache-kosugi.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/apache/kosugi/Kosugi-Regular.ttf",
+      "sha256": "f5e81d6a6b865d9b88c54d2d3c16bcaa3b239dfcefaf2a62976ac9dc7574bab7",
+      "size": 2288848
+    },
+    {
+      "name": "Roboto Slab",
+      "file": "company-apache-robotoslab.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/apache/robotoslab/RobotoSlab%5Bwght%5D.ttf",
+      "sha256": "786ae192477447d33c6672c3055fba7cbfe45184c9a79e77a14f15716ca05b16",
+      "size": 251880
+    },
+    {
+      "name": "JetBrains Mono",
+      "file": "company-ofl-jetbrainsmono.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf",
+      "sha256": "48715a42ec242c21e9f02692891e147d022299a52e48d5e413e1a942193ffeda",
+      "size": 187208
+    },
+    {
+      "name": "Lato",
+      "file": "company-ofl-lato.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/lato/Lato-Regular.ttf",
+      "sha256": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251",
+      "size": 656568
+    },
+    {
+      "name": "Lobster",
+      "file": "company-ofl-lobster.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/lobster/Lobster-Regular.ttf",
+      "sha256": "d6568e697fd50cedc0be04d8aae4127fe95add607e7bff954ca88604be80c205",
+      "size": 406076
+    },
+    {
+      "name": "Long Cang",
+      "file": "company-ofl-longcang.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/longcang/LongCang-Regular.ttf",
+      "sha256": "e5bf2c3f24ef2327c6f136d8f73e2f9dfdf44896fdbeb35a9515f44777bb91bc",
+      "size": 5162508
+    },
+    {
+      "name": "Noto Sans",
+      "file": "company-ofl-notosans.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/notosans/NotoSans%5Bwdth%2Cwght%5D.ttf",
+      "sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d",
+      "size": 2049096
+    },
+    {
+      "name": "Ubuntu",
+      "file": "company-ufl-ubuntu.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ufl/ubuntu/Ubuntu-Regular.ttf",
+      "sha256": "3128df86a31805618436d0ae5651ba4285d0c9de0a39057d025f64ee33bceb64",
+      "size": 351884
+    }
+  ]
+}

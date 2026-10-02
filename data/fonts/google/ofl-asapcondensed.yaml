@@ -1,0 +1,61 @@
+id: gf-ofl-asapcondensed
+name: Asap Condensed
+aliases:
+- Asap Condensed Black
+- Asap Condensed Black Italic
+- Asap Condensed Bold
+- Asap Condensed Bold Italic
+- Asap Condensed ExtraBold
+- Asap Condensed ExtraBold Italic
+- Asap Condensed ExtraLight
+- Asap Condensed ExtraLight Italic
+- Asap Condensed Italic
+- Asap Condensed Light
+- Asap Condensed Light Italic
+- Asap Condensed Medium
+- Asap Condensed Medium Italic
+- Asap Condensed Regular
+- Asap Condensed SemiBold
+- Asap Condensed SemiBold Italic
+- AsapCondensed-Black
+- AsapCondensed-BlackItalic
+- AsapCondensed-Bold
+- AsapCondensed-BoldItalic
+- AsapCondensed-ExtraBold
+- AsapCondensed-ExtraBoldItalic
+- AsapCondensed-ExtraLight
+- AsapCondensed-ExtraLightItalic
+- AsapCondensed-Italic
+- AsapCondensed-Light
+- AsapCondensed-LightItalic
+- AsapCondensed-Medium
+- AsapCondensed-MediumItalic
+- AsapCondensed-Regular
+- AsapCondensed-SemiBold
+- AsapCondensed-SemiBoldItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/asapcondensed/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/asapcondensed/METADATA.pb
+verified_at: '2026-10-02'

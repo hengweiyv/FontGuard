@@ -1,0 +1,57 @@
+id: gf-ofl-ibmplexserif
+name: IBM Plex Serif
+aliases:
+- IBM Plex Serif Bold
+- IBM Plex Serif Bold Italic
+- IBM Plex Serif ExtraLight
+- IBM Plex Serif ExtraLight Italic
+- IBM Plex Serif Italic
+- IBM Plex Serif Light
+- IBM Plex Serif Light Italic
+- IBM Plex Serif Medium
+- IBM Plex Serif Medium Italic
+- IBM Plex Serif Regular
+- IBM Plex Serif SemiBold
+- IBM Plex Serif SemiBold Italic
+- IBM Plex Serif Thin
+- IBM Plex Serif Thin Italic
+- IBMPlexSerif-Bold
+- IBMPlexSerif-BoldItalic
+- IBMPlexSerif-ExtraLight
+- IBMPlexSerif-ExtraLightItalic
+- IBMPlexSerif-Italic
+- IBMPlexSerif-Light
+- IBMPlexSerif-LightItalic
+- IBMPlexSerif-Medium
+- IBMPlexSerif-MediumItalic
+- IBMPlexSerif-Regular
+- IBMPlexSerif-SemiBold
+- IBMPlexSerif-SemiBoldItalic
+- IBMPlexSerif-Thin
+- IBMPlexSerif-ThinItalic
+vendor: Google Fonts catalogue
+license:
+  type: OFL-1.1
+  conditions:
+  - Retain copyright and license notices when distributing font software.
+  - Respect Reserved Font Names on modifications; font software cannot be sold alone.
+usage:
+  personal: allowed
+  commercial_design: allowed
+  print: allowed
+  advertising: allowed
+  website: allowed
+  video: allowed
+  logo: allowed
+  webfont: conditional
+  ebook: conditional
+  document_embedding: conditional
+  app_embedding: conditional
+  software_distribution: conditional
+  font_redistribution: conditional
+sources:
+- type: official_license
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/ibmplexserif/OFL.txt
+- type: official_repository
+  url: https://github.com/google/fonts/blob/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/ibmplexserif/METADATA.pb
+verified_at: '2026-10-02'

@@ -1,0 +1,32 @@
+name: CI
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  test:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        python: ['3.11', '3.12', '3.13']
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -m pip install -e ".[dev]"
+      - run: python -m pytest
+      - run: python -m ruff check .
+      - run: python -m ruff format --check .
+      - run: python -m mypy
+      - run: fontguard database validate
+      - run: fontguard scan . --usage webfont --fail-on high --format json --output fontguard-report.json --no-cache
+      - run: python -m build
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t fontguard-local .
+      - run: docker run --rm -v "$PWD:/workspace:ro" fontguard-local scan /workspace/examples --usage webfont --fail-on high --no-cache
+      - run: docker build --target test -t fontguard-tests .
+      - run: docker run --rm --network none fontguard-tests

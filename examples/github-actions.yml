@@ -1,0 +1,22 @@
+name: Font License Check
+on: [push, pull_request]
+permissions:
+  contents: read
+  security-events: write
+jobs:
+  fonts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      # Until PyPI publication, install from a reviewed local checkout.
+      - run: python -m pip install .
+      - name: Scan fonts
+        run: fontguard scan . --usage webfont --fail-on high --format sarif --output fontguard.sarif --no-cache
+      - name: Upload SARIF even if font policy fails
+        if: always()
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: fontguard.sarif
